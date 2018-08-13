@@ -8,9 +8,20 @@
     text-align: center;
 }
 
-li{
-    text-align: center;
-    font-size: 1.5em;
+.pic1 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 15em;
+   height: 20em;
+}
+
+.pic2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35em;
+    height: 20em;
 }
 
 .link {
@@ -22,13 +33,6 @@ li{
     text-align: inherit;
 }
 
-form {
-   padding: 3em 5em;
-   margin: 5em auto 20em;
-   width: 200px;
-   border: 1px solid black;
-}
-
 .resources {
     text-align: center;
     font-size: 1.75em;
@@ -37,6 +41,18 @@ form {
 .resourceLinks {
     font-size: 0.75em;
     text-align: center;
+}
+
+form {
+   padding: 3em 5em;
+   margin: 5em auto 20em;
+   width: 200px;
+   border: 1px solid black;
+}
+
+li{
+    text-align: center;
+    font-size: 1.5em;
 }
 
 input, button, li {
