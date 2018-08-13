@@ -22,8 +22,11 @@ li{
     text-align: inherit;
 }
 
-.form {
-   align-self: center;
+form {
+   padding: 2em;
+   margin: 5em auto 10em;
+   width: 150px;
+   box-shadow: 28px 28px 34px 5px rgba(0,0,0,0.68);
 }
 
 .resources {
