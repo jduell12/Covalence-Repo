@@ -2,6 +2,9 @@
     text-align: center;
 }
 
+.link {
+    text-decoration: none;
+}
 
 input, button, li {
     display: block;
