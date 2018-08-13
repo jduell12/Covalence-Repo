@@ -1,9 +1,39 @@
-.text-center, li {
+.text-center {
     text-align: center;
+    font-size: 2em;
+}
+
+.title {
+    font-size: 2.5em;
+    text-align: center;
+}
+
+li{
+    text-align: center;
+    font-size: 1.5em;
 }
 
 .link {
     text-decoration: none;
+}
+
+.paragraph {
+    font-size: 1.5em;
+    text-align: inherit;
+}
+
+.form {
+   align-self: center;
+}
+
+.resources {
+    text-align: center;
+    font-size: 1.75em;
+}
+
+.resourceLinks {
+    font-size: 0.75em;
+    text-align: center;
 }
 
 input, button, li {
