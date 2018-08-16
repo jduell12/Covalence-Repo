@@ -10,16 +10,14 @@
 
 .pic1 {
    display: block;
-   margin-left: auto;
-   margin-right: auto;
+   margin: 5em auto;
    width: 15em;
    height: 20em;
 }
 
 .pic2 {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 5em auto;
     width: 35em;
     height: 20em;
 }
@@ -31,6 +29,12 @@
 .paragraph {
     font-size: 1.25em;
     text-align: inherit;
+    font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.project {
+    font-size: 1.25em;
+    text-align: center;
     font-family: 'Sawarabi Mincho', sans-serif;
 }
 
@@ -47,7 +51,7 @@
 form {
    padding: 3em 5em;
    margin: 5em auto 5em;
-   width: 200px;
+   width: 400px;
    border: 1px solid black;
 }
 
